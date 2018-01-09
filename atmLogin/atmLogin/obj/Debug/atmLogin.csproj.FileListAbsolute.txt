@@ -1,0 +1,11 @@
+D:\kistFair\atmLogin\atmLogin\bin\Debug\atmLogin.exe.config
+D:\kistFair\atmLogin\atmLogin\bin\Debug\atmLogin.exe
+D:\kistFair\atmLogin\atmLogin\bin\Debug\atmLogin.pdb
+D:\kistFair\atmLogin\atmLogin\obj\Debug\atmLogin.csprojResolveAssemblyReference.cache
+D:\kistFair\atmLogin\atmLogin\obj\Debug\atmLogin.Form1.resources
+D:\kistFair\atmLogin\atmLogin\obj\Debug\atmLogin.Properties.Resources.resources
+D:\kistFair\atmLogin\atmLogin\obj\Debug\atmLogin.csproj.GenerateResource.Cache
+D:\kistFair\atmLogin\atmLogin\obj\Debug\atmLogin.csproj.CoreCompileInputs.cache
+D:\kistFair\atmLogin\atmLogin\obj\Debug\atmLogin.exe
+D:\kistFair\atmLogin\atmLogin\obj\Debug\atmLogin.pdb
+D:\kistFair\atmLogin\atmLogin\obj\Debug\atmLogin.Form2.resources
