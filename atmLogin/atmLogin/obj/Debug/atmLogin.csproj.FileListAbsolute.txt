@@ -9,3 +9,6 @@ D:\kistFair\atmLogin\atmLogin\obj\Debug\atmLogin.csproj.CoreCompileInputs.cache
 D:\kistFair\atmLogin\atmLogin\obj\Debug\atmLogin.exe
 D:\kistFair\atmLogin\atmLogin\obj\Debug\atmLogin.pdb
 D:\kistFair\atmLogin\atmLogin\obj\Debug\atmLogin.Form2.resources
+C:\Users\hams\Desktop\KistFair\atmLogin\atmLogin\bin\Debug\atmLogin.exe.config
+C:\Users\hams\Desktop\KistFair\atmLogin\atmLogin\obj\Debug\atmLogin.exe
+C:\Users\hams\Desktop\KistFair\atmLogin\atmLogin\obj\Debug\atmLogin.pdb
