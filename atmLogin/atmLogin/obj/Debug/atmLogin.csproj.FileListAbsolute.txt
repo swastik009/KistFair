@@ -19,3 +19,5 @@ C:\Users\hams\Desktop\KistFair\atmLogin\atmLogin\obj\Debug\atmLogin.Properties.R
 C:\Users\hams\Desktop\KistFair\atmLogin\atmLogin\obj\Debug\atmLogin.csproj.GenerateResource.Cache
 C:\Users\hams\Desktop\KistFair\atmLogin\atmLogin\obj\Debug\atmLogin.exe
 C:\Users\hams\Desktop\KistFair\atmLogin\atmLogin\obj\Debug\atmLogin.pdb
+C:\Users\hams\Desktop\KistFair\atmLogin\atmLogin\bin\Debug\MySql.Data.dll
+C:\Users\hams\Desktop\KistFair\atmLogin\atmLogin\bin\Debug\MySql.Data.xml
