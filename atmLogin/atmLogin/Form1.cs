@@ -25,12 +25,16 @@ namespace atmLogin
 
         private void pictureBox1_Click(object sender, EventArgs e)
         {
+            /*
             string query = "INSERT INTO hamstable VALUES(6,'Hamlet Maharjan',20,'male')";
             string connectionString = "SERVER=localhost;DATABASE=hamsdatabase;UID=root;PASSWORD=";
             MySqlConnection con = new MySqlConnection(connectionString);
             con.Open();
             MySqlCommand cmd = new MySqlCommand(query, con);
             cmd.ExecuteNonQuery();
+             */
+            Login login = new Login();
+            login.Show();
         }
 
         private void label1_Click(object sender, EventArgs e)
