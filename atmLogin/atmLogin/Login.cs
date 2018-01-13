@@ -42,14 +42,18 @@ namespace atmLogin
 
             }
 
-            MessageBox.Show(em + " \n" + pass);
+            //MessageBox.Show(em + " \n" + pass);
 
-            /*
-            if ((strcmp(email, em) == 0) && strcmp(pwd, pass) == 0)
+            
+            if ((String.Compare(email, em) == 0) && String.Compare(pwd, pass) == 0)
             {
-
+                MessageBox.Show("Loggin Successful");
             }
-             * /
+            else
+            {
+                MessageBox.Show("you screwed up");
+            }
+             
             
 
 
